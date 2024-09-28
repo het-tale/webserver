@@ -1,0 +1,13 @@
+webserv.pdf
+*.html
+*.css
+*.js
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+*/*.php
+*/*.py
+
